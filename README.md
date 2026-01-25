@@ -1,2 +1,3 @@
-# spotify-inspired-responsive-music-player
-A fully responsive, Spotify-inspired music player built using pure HTML, CSS, and Vanilla JavaScript. Designed to work seamlessly across desktop and mobile devices.
+A responsive, Spotify-inspired web music player built using pure HTML, CSS, and Vanilla JavaScript.
+Unlike the original reference project, this version is fully responsive and works across desktop, tablet, and mobile screens.
+Developed independently as a learning project focusing on frontend fundamentals and UI responsiveness
