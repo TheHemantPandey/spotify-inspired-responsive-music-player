@@ -1,3 +1,14 @@
-A responsive, Spotify-inspired web music player built using pure HTML, CSS, and Vanilla JavaScript.
-Unlike the original reference project, this version is fully responsive and works across desktop, tablet, and mobile screens.
-Developed independently as a learning project focusing on frontend fundamentals and UI responsiveness
+# Music Player
+A Web music player inspired by Spotify’s UI, built entirely from scratch using HTML, CSS, and JavaScript. While some design elements are visually similar to Spotify for familiarity and aesthetics, all application logic, structure, and features are original and developed by me. The app supports music playback, album browsing, playlists, and responsive design, and is fully deployable on static hosting platforms.
+
+Features:
+
+-Custom music player with play, pause, next, previous, and volume controls
+-Album and playlist browsing
+-Responsive layout for Desktop and Mobile
+-Modern UI inspired by Spotify, but all code and logic are self-written
+
+Tech Stack:
+
+HTML5, CSS3, JavaScript (ES6)
+Static hosting (Vercel, Netlify)
