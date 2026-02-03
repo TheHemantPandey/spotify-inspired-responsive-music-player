@@ -64,6 +64,7 @@ public/
 ├── package.json
 └── package-lock.json
 
+```
 
 🔄 How Playlist System Works
 
@@ -84,6 +85,8 @@ Renders playlists automatically
 ✅ No hardcoded playlists
 ✅ Easy to scale by adding new folders
 
+---
+
 📱 Responsiveness
 
 The UI is fully responsive using custom media query styles:
@@ -97,6 +100,8 @@ Medium mobile devices
 Small mobile devices
 
 All layouts are handled manually without frameworks.
+
+---
 
 🧠 What I Learned
 
@@ -114,6 +119,7 @@ Hosting and deploying projects on Vercel
 
 Managing large assets in GitHub repositories
 
+---
 
 🧪 How to Run Locally
 git clone https://github.com/TheHemantPandey/spotify-inspired-responsive-music-player.git
@@ -122,6 +128,7 @@ open index.html
 
 
 No additional setup required.
+---
 
 👤 Author
 
@@ -129,16 +136,4 @@ Hemant Pandey
 B.Tech CSE Student
 Aspiring Frontend / Web Developer
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
