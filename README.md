@@ -1,5 +1,6 @@
-![GitHub stars](https://img.shields.io/github/stars/TheHemantPandey/spotify-inspired-responsive-music-player?style=social)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://musicplaynest.vercel.app)
+
+![GitHub stars](https://img.shields.io/github/stars/TheHemantPandey/spotify-inspired-responsive-music-player?style=social)
 
 
 
