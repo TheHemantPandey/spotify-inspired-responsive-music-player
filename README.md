@@ -13,7 +13,7 @@ The project dynamically detects music folders from the repository and automatica
 ![Desktop]<img width="1111" height="571" alt="image" src="https://github.com/user-attachments/assets/b8ff4155-0378-4736-831c-8f67640e148b" />
 
 ### Mobile View and Playlist View
-<img width="190" height="423" alt="image" src="https://github.com/user-attachments/assets/a899390a-f9fd-4a80-952e-e7b3e0657641" /> <img width="197" height="431" alt="image" src="https://github.com/user-attachments/assets/400f62cf-4ee2-422d-b60c-375c209abd67" />
+<img width="503" height="422" alt="image" src="https://github.com/user-attachments/assets/2703de4b-f930-4989-8467-c208ae6adbec" />
 
 
 
