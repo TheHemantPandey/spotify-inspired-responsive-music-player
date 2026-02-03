@@ -1,3 +1,11 @@
+![GitHub stars](https://img.shields.io/github/stars/TheHemantPandey/spotify-inspired-responsive-music-player?style=social)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://musicplaynest.vercel.app)
+
+
+
+
+
+
 # 🎵 MusicPlayNest – Spotify Inspired Responsive Music Player
 
 MusicPlayNest is a Spotify-inspired, fully responsive web-based music player developed using **HTML, CSS, and Vanilla JavaScript**.  
